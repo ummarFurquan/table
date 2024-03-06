@@ -6,7 +6,7 @@ import { Header } from './components/Header';
 import { DatePicker } from './components/DatePicker';
 import { useState } from 'react';
 import { EmptyTable } from './components/EmptyTable.js';
-import { utilFunction } from './util';
+import { utilFunction } from './utils';
 
 function App() {
   
